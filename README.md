@@ -80,7 +80,7 @@ To build a successful career in VLSI Design Verification by developing expertise
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/singamsetti-neelima
-- GitHub: github.com/neelimasingamsetti2005-ops
+- GitHub: https://github.com/neelimasingamsetti
 
 ---
 
