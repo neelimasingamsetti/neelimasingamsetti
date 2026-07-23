@@ -20,6 +20,7 @@ CGPA: 7.92
 
 ### Hardware Description Languages
 - Verilog HDL
+- VHDL
 - basic SystemVerilog 
 
 ### Digital Design
