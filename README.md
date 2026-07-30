@@ -1,6 +1,6 @@
 # Hi, I'm Singamsetti Neelima 👋
 
-### Aspiring Design Verification Engineer | Electronics & VLSI Design Student
+### Aspiring Design Verification Engineer | Electronics & VLSI (Design & Teechnology)Student
 
 I am a final-year B.Tech student specializing in Electronics Engineering (VLSI Design & Technology) with a strong interest in Digital Design, RTL Development, and Functional Verification.
 
