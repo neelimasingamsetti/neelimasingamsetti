@@ -12,7 +12,7 @@ I am passionate about building reliable digital systems and continuously expandi
 
 **B.Tech – Electronics Engineering (VLSI Design & Technology)**  
 SRK Institute of Technology  
-CGPA: 7.92
+CGPA: 7.97
 
 ---
 
