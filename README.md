@@ -47,9 +47,9 @@ CGPA: 7.97
 
 ## 🚀 Projects
 
-- 100 Days of Verilog
 - 4-Bit ALU Design
 - 8-Bit ALU Design
+- 32-Bit ALU Design
 
 ---
 
