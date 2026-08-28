@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=Singamsetti%20Neelima&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=✦%20Singamsetti%20Neelima%20✦&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 </h1>
 
 <p align="center">
@@ -33,3 +33,91 @@ I am passionate about building reliable digital systems and continuously expandi
 Degree: B.Tech – Electronics Engineering (VLSI Design & Technology)
 Institute: SRK Institute of Technology
 Performance: CGPA 7.97
+
+---
+
+### 💻 Technical Skills
+
+#### 🛠 Hardware Description Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog_HDL-%23ff79c6.svg?style=for-the-badge&logo=chip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VHDL-%23bd93f9.svg?style=for-the-badge&logo=processor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-%238be9fd.svg?style=for-the-badge&logo=intel&logoColor=181825"/>
+</p>
+
+#### 🔣 Digital Design
+- ⚡ Combinational & Sequential Circuits
+- ⚡ Multiplexers & Demultiplexers | Encoders & Decoders
+- ⚡ Adders, Subtractors & Comparators
+- ⚡ ALU Design Architecture
+
+#### 🔬 Verification
+- ⚙️ Testbench Development & Functional Verification
+- ⚙️ Mailboxes & Interfaces
+- ⚙️ OOP Concepts in SystemVerilog
+
+#### ⚡ EDA Tools & Simulators
+<p align="left">
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-%23ff5555.svg?style=for-the-badge&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QuestaSim-%2350fa7b.svg?style=for-the-badge&logo=siemens&logoColor=black"/>
+</p>
+
+---
+
+### 🚀 Projects
+
+```verilog
+// Hardware Architecture & Waveform Simulation Projects
+├── ⚡ 4-Bit ALU Design
+├── ⚡ 8-Bit ALU Design
+└── ⚡ 32-Bit ALU Design
+
+---
+
+### 🔹 PART 3 (Certifications, Learning & Connect Links)
+*(Part 2 paste chesaka, chivarlo Part 3 copy-paste chesi Commit changes kottandi 👇)*
+
+```markdown
+---
+
+### 📜 Certifications
+
+- 🏆 **NPTEL** – VLSI Design Flow: RTL to GDS
+- 🏆 **NPTEL** – Digital Design with Verilog
+- 🏆 **Youngminds Technology Solutions** – VLSI Internship
+- 🏆 **Ethical Edufabrica** – Semiconductor and Manufacturing Training
+
+---
+
+### 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Advanced_SystemVerilog-Neon?style=flat-square&color=ff79c6"/>
+  <img src="https://img.shields.io/badge/Assertions-Active?style=flat-square&color=bd93f9"/>
+  <img src="https://img.shields.io/badge/Functional_Coverage-Sync?style=flat-square&color=8be9fd"/>
+  <img src="https://img.shields.io/badge/UVM_Methodology-In_Progress?style=flat-square&color=50fa7b"/>
+  <img src="https://img.shields.io/badge/Design_Verification_Flow-Learning?style=flat-square&color=ffb86c"/>
+</p>
+
+---
+
+### 🎯 Career Objective
+
+To build a successful career in **VLSI Design Verification** by developing expertise in **SystemVerilog**, **UVM**, and modern verification methodologies while contributing to high-quality semiconductor products.
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/singamsetti-neelima">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/neelimasingamsetti">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" width="100%"/>
+</p>
