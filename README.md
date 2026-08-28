@@ -1,88 +1,35 @@
-# Hi, I'm Singamsetti Neelima 👋
+<!-- HEADER BANNER -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=Singamsetti%20Neelima&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+</h1>
 
-### Aspiring Design Verification Engineer | Electronics & VLSI (Design & Technology)Student
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJmN2RzbWFuaWZlc3RhdGlvbl9naWZz/L1cR3pZ6yG2eX3X3xK/giphy.gif" width="450" height="220" style="border-radius:15px;"/>
+</p>
 
-I am a final-year B.Tech student specializing in Electronics Engineering (VLSI Design & Technology) with a strong interest in Digital Design, RTL Development, and Functional Verification.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Aspiring+Design+Verification+Engineer;Electronics+%26+VLSI+(Design+%26+Technology)+Student;RTL+Development+%26+SystemVerilog" alt="Typing SVG" />
+</p>
 
-I am passionate about building reliable digital systems and continuously expanding my knowledge in Verilog, SystemVerilog, and industry-standard verification methodologies. My goal is to contribute to the semiconductor industry as a Design Verification Engineer.
-
----
-
-## 🎓 Education
-
-**B.Tech – Electronics Engineering (VLSI Design & Technology)**  
-SRK Institute of Technology  
-CGPA: 7.97
-
----
-
-## 💻 Technical Skills
-
-### Hardware Description Languages
-- Verilog HDL
-- VHDL
-- basic SystemVerilog 
-
-### Digital Design
-- Combinational Circuits
-- Sequential Circuits
-- Multiplexers & Demultiplexers
-- Encoders & Decoders
-- Adders & Subtractors
-- Comparators
-- ALU Design
-
-### Verification
-- Testbench Development
-- Functional Verification
-- Mailboxes
-- Interfaces
-- OOP Concepts in SystemVerilog
-
-### Tools
-- Vivado
-- QuestaSim
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8408-b560bc83230b.gif" width="100%"/>
+</p>
 
 ---
 
-## 🚀 Projects
+### ⚡ About Me
 
-- 4-Bit ALU Design
-- 8-Bit ALU Design
-- 32-Bit ALU Design
+> *"Turning digital design concepts into reliable and efficient hardware solutions."*
 
----
+I am a final-year B.Tech student specializing in **Electronics Engineering (VLSI Design & Technology)** with a strong interest in Digital Design, RTL Development, and Functional Verification.
 
-## 📚 Certifications
-
-- NPTEL – VLSI Design Flow: RTL to GDS
-- NPTEL – Digital Design with Verilog
-- Youngminds Technology Solutions – VLSI Internship
-- Ethical Edufabrica -Semiconductor and Manufacturing Traning
+I am passionate about building reliable digital systems and continuously expanding my knowledge in **Verilog**, **SystemVerilog**, and industry-standard verification methodologies. My goal is to contribute to the semiconductor industry as a **Design Verification Engineer**.
 
 ---
 
-## 🌱 Currently Learning
+### 🎓 Education
 
-- Advanced SystemVerilog
-- Assertions
-- Functional Coverage
-- UVM Methodology
-- Design Verification Flow
-
----
-
-## 🎯 Career Objective
-
-To build a successful career in VLSI Design Verification by developing expertise in SystemVerilog, UVM, and modern verification methodologies while contributing to high-quality semiconductor products.
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/singamsetti-neelima
-- GitHub: https://github.com/neelimasingamsetti
-
----
-
-*"Turning digital design concepts into reliable and efficient hardware solutions."*
+```yaml
+Degree: B.Tech – Electronics Engineering (VLSI Design & Technology)
+Institute: SRK Institute of Technology
+Performance: CGPA 7.97
