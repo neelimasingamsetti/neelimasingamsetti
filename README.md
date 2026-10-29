@@ -78,6 +78,24 @@ CGPA: 7.98
 To build a successful career in VLSI Design Verification by developing expertise in SystemVerilog, UVM, and modern verification methodologies while contributing to high-quality semiconductor products.
 
 ---
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neelimasingamsetti/neelimasingamsetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neelimasingamsetti/neelimasingamsetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/neelimasingamsetti/neelimasingamsetti/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📈 Development Journey
+
+| 📊 Milestone | 🎯 Achievement |
+| :--- | :--- |
+| 💻 **Public Repositories** | **15+** |
+| ⚡ **Hardware & RTL Projects** | **5+** |
+| 🏆 **Certifications** | **4** |
+| 🧩 **Coding & Logic Problems** | **100+** |
 
 ## 📫 Connect With Me
 
