@@ -92,8 +92,8 @@ To build a successful career in VLSI Design Verification by developing expertise
 
 | 📊 Milestone | 🎯 Achievement |
 | :--- | :--- |
-| 💻 **Public Repositories** | **15+** |
-| ⚡ **Hardware & RTL Projects** | **5+** |
+| 💻 **Public Repositories** | **10+** |
+| ⚡ **Hardware & RTL Projects** | **3+** |
 | 🏆 **Certifications** | **4** |
 | 🧩 **Coding & Logic Problems** | **100+** |
 
