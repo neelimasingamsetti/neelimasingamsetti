@@ -40,8 +40,11 @@ CGPA: 7.98
 - OOP Concepts in SystemVerilog
 
 ### Tools
-- Vivado
+- Xilinx Vivado
 - QuestaSim
+- EDA playground
+- Cadence Virtuoso
+- Turbo C
 
 ---
 
