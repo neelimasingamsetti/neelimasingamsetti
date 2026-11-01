@@ -1,110 +1,52 @@
-# Hi, I'm Singamsetti Neelima 👋
+<h1 align="center">Hi 👋, I'm Singamsetti Neelima</h1>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EBE5D&center=true&vCenter=true&width=550&height=50&lines=VLSI+Design+%26+Technology+Student;RTL+Design+%26+Verification+Enthusiast;Passionate+about+Digital+Logic+Design" alt="Typing SVG" />
+  </a>
+</p>
 
-### Aspiring Design Verification Engineer | Electronics Engineering (VLSI Design & Technology)Student
-
-I am a final-year B.Tech student specializing in Electronics Engineering (VLSI Design & Technology) with a strong interest in Digital Design, RTL Development, and Functional Verification.
-
-I am passionate about building reliable digital systems and continuously expanding my knowledge in Verilog, SystemVerilog, and industry-standard verification methodologies. My goal is to contribute to the semiconductor industry as a Design Verification Engineer.
+<p align="center">
+  <img src="https://img.shields.io/badge/Degree-B.Tech_VLSI_Design-blue.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/College-SRK_Institute_of_Technology-orange.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Final_Year-success.svg?style=for-the-badge" />
+</p>
 
 ---
 
-## 🎓 Education
-
-**B.Tech – Electronics Engineering (VLSI Design & Technology)**  
-SRK Institute of Technology  
-CGPA: 7.98
+## 🚀 About Me
+- 🌱 I am currently pursuing a **B.Tech in Electronics Engineering (VLSI Design & Technology)** at SRK Institute of Technology (Graduating 2027).
+- 💡 Passionate about Digital Design, RTL Coding, FSM Architectures, and Verification Methodologies.
+- 🛠️ Hands-on experience with industry-standard EDA tools like **Xilinx Vivado**, **QuestaSim**, and **Cadence Virtuoso**.
+- 🎯 Open to collaborative projects and entry-level opportunities in RTL Design & Verification.
 
 ---
 
 ## 💻 Technical Skills
 
-### Hardware Description Languages
-- Verilog HDL
-- VHDL
-- basic SystemVerilog 
-
-### Digital Design
-- Combinational Circuits
-- Sequential Circuits
-- Multiplexers & Demultiplexers
-- Encoders & Decoders
-- Adders & Subtractors
-- Comparators
-- ALU Design
-
-### Verification
-- Testbench Development
-- Functional Verification
-- Mailboxes
-- Interfaces
-- OOP Concepts in SystemVerilog
-
-### Tools
-- Xilinx Vivado
-- QuestaSim
-- EDA playground
-- Cadence Virtuoso
-- Turbo C
-
----
-
-## 🚀 Projects
-
-- 4-Bit ALU Design
-- 8-Bit ALU Design
-- 32-Bit ALU Design
-- 64-Bit Parameterized Calculator
-
----
-
-## 📚 Certifications
-
-- NPTEL – VLSI Design Flow: RTL to GDS
-- NPTEL – Digital Design with Verilog
-- Youngminds Technology Solutions – VLSI Internship
-- Ethical Edufabrica -Semiconductor and Manufacturing Traning
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SystemVerilog
-- Assertions
-- Functional Coverage
-- UVM Methodology
-- Design Verification Flow
-
----
-
-## 🎯 Career Objective
-
-To build a successful career in VLSI Design Verification by developing expertise in SystemVerilog, UVM, and modern verification methodologies while contributing to high-quality semiconductor products.
-
----
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neelimasingamsetti/neelimasingamsetti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neelimasingamsetti/neelimasingamsetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/neelimasingamsetti/neelimasingamsetti/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📈 Development Journey
-
-| 📊 Milestone | 🎯 Achievement |
+| Category | Technologies / Tools |
 | :--- | :--- |
-| 💻 **Public Repositories** | **10+** |
-| ⚡ **Hardware & RTL Projects** | **3+** |
-| 🏆 **Certifications** | **4** |
-| 🧩 **Coding & Logic Problems** | **100+** |
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/singamsetti-neelima
-- GitHub: https://github.com/neelimasingamsetti
+| **HDL & Verification** | Verilog HDL, VHDL, SystemVerilog |
+| **Programming** | C Programming, Python |
+| **EDA Tools** | Xilinx Vivado, QuestaSim, EDA Playground, Cadence Virtuoso |
+| **Core Concepts** | Digital Logic Design, FSM Architecture, Testbench Development |
 
 ---
 
-*"Turning digital design concepts into reliable and efficient hardware solutions."*
+## ⚡ Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/singamsetti-neelima-b43b9a3a6">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:neelima.singamsetti2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/neelimasingamsetti">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>"Building the future of hardware, one gate at a time."</i>
+</p>
