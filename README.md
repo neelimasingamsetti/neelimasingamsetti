@@ -106,3 +106,4 @@ To build a successful career in VLSI Design Verification by developing expertise
 - GitHub: https://github.com/neelimasingamsetti
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=neelimasingamsetti&color=blueviolet&style=for-the-badge)
